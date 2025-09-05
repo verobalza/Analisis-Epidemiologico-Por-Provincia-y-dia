@@ -39,14 +39,19 @@ Este proyecto tiene como objetivo analizar datos epidemiológicos por provincia 
 ## 📁 Estructura del Repositorio
 
 - **`base_datos/`**: Archivo CSV con datos epidemiológicos.
-- **`resultados_json/`**: Archivo JSON con datos agrupados.
 - **`script/`**: Código fuente del análisis.
 - **`dashboard/`**: Capturas de los gráficos generados.
 - **`requerimientos/`**: Documento funcional del proyecto.
 - **`conclusiones/`**: Informe final del análisis.
 
 ---
-Documentos Adicionales
+## Documentos Adicionales
+- [base_datos](recursos_proyectos.csv)
+- [codigo](dashboard-cientifico.py)
+- [Captura de un dashboard](grafico.png)
+- [Captura de un dashboard](grafico2.png)
+- [requerimientos](Requerimientos.pdf)
+- [conclusion](Conclusiones.pdf)
 
 
 ---
